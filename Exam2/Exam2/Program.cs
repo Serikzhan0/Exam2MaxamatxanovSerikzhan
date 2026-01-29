@@ -1,3 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿namespace Exam2;
 
-Console.WriteLine("Hello, World!");
+internal class Program
+{
+    static void Main(string[] args)
+    {
+        {
+            static void Main()
+            {
+            }
+        }
+    }
+}
